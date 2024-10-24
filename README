@@ -12,3 +12,4 @@ The final threat score ranges from 0 to 100, with any score above 70 automatical
 
 Make sure to Install
 npm install @heroicons/react lucide-react @/components/ui
+npm install express mongoose body-parser cors
