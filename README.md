@@ -14,3 +14,6 @@ Make sure to Install
 npm install @heroicons/react lucide-react @/components/ui
 npm install express mongoose body-parser cors
 
+[
+![image](https://github.com/user-attachments/assets/b4a0039e-e3fd-47fc-9256-6851192fb5fc)
+](url)
