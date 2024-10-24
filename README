@@ -8,3 +8,7 @@ I trained it using a machine learning algorithm called Isolation Forest, which h
 The threat score calculation starts at zero and increases based on suspicious activities - for example, if someone normally spends $100 at local stores but suddenly makes a $5,000 purchase from another country, 
 the score would increase significantly. We also apply different weight multipliers for specific red flags: unusual transaction amounts get a 1.5x multiplier, new locations 1.3x, odd banking hours 1.2x, and unknown devices 1.4x. 
 The final threat score ranges from 0 to 100, with any score above 70 automatically flagging the transaction for immediate review.
+
+
+Make sure to Install
+npm install @heroicons/react lucide-react @/components/ui
